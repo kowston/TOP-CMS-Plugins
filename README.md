@@ -15,4 +15,4 @@ The first example will have me building a checklist plugin to demo the functiona
 ##h2
 ###h3
 
-[domain.com](domain)
+[Project](domain.com)
