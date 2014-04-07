@@ -14,3 +14,5 @@ The first example will have me building a checklist plugin to demo the functiona
 #h1
 ##h2
 ###h3
+
+[domain.com](domain)
