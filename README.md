@@ -11,8 +11,10 @@ The first example will have me building a checklist plugin to demo the functiona
 <?php echo $dir;?>
 ````
 
-#h1
-##h2
-###h3
+# h1
+
+## h2
+
+### h3
 
 [Project](domain.com)
